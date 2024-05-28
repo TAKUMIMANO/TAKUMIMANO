@@ -14,14 +14,11 @@ TAKUMIMANO/TAKUMIMANOは✨特別な✨リポジトリで、その`README.md`（
 --->
 
 - 👋 Hi,I'm @TAKUMIMANO
-- 👀 I'm interested in ... GitHub Copilot, .NET Framewoke
-- 👀 ... C#,SQL,TS
-- 👀 ... Node.JS,Vue.js
-- 👀 ... PostegreSQL
+- 👀 I'm interested in ... GitHub Copilot, C#, .NETCore
 - 🌱 I’m currently learning ... Python,C,Java,JS,MariaDB,AppSheet
 - 💞️ Not looking for co-productions ...
 - 📫 How to reach me ...　jiangzhenye3@gmail.com
-- 😄 Pronoun: ...　Ordinary men
+- 😄 Pronoun: ...　He
 - ⚡ Fun fact?: ...　Coffee is delicious, even drip coffee.
 
 <!---
